@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6A9591542BEC7DEF00EB55F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		6AB19BA72BEB82D00053276B /* bckgrnd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bckgrnd.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB19BAA2BEB82D00053276B /* bckgrndApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bckgrndApp.swift; sourceTree = "<group>"; };
 		6AB19BAC2BEB82D00053276B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 		6AB19BA92BEB82D00053276B /* bckgrnd */ = {
 			isa = PBXGroup;
 			children = (
+				6A9591542BEC7DEF00EB55F2 /* Info.plist */,
 				6AB19BAA2BEB82D00053276B /* bckgrndApp.swift */,
 				6AB19BAC2BEB82D00053276B /* ContentView.swift */,
 				6AB19BAE2BEB82D10053276B /* Assets.xcassets */,
@@ -272,8 +274,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"bckgrnd/Preview Content\"";
+				DEVELOPMENT_TEAM = 5XXCT38AU7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = bckgrnd/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -300,8 +304,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"bckgrnd/Preview Content\"";
+				DEVELOPMENT_TEAM = 5XXCT38AU7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = bckgrnd/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

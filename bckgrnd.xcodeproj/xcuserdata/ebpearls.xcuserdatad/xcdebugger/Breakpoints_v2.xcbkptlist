@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43CFEE18-94EC-4CCB-8160-FB5EAC45A5D9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9273D99-F5D2-4817-A225-D1F3F47A7E61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bckgrnd/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "scheduleBGAppRefreshTask()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F2F3C4E-EC35-4D7C-84FA-65151DC79B24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bckgrnd/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "scheduleBGProcessingTask()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F2F3C4E-EC35-4D7C-84FA-65151DC79B24 - 985090fe8f7b3ca6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.BGTaskRequest&gt;) -&gt; () in bckgrnd.ContentView.scheduleBGProcessingTask() -&gt; ()"
+                  moduleName = "bckgrnd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebpearls/Desktop/bckgrnd/bckgrnd/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "8F2F3C4E-EC35-4D7C-84FA-65151DC79B24 - 985090fe8f7b3c81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;__C.BGTaskRequest&gt;) -&gt; () in bckgrnd.ContentView.scheduleBGProcessingTask() -&gt; ()"
+                  moduleName = "bckgrnd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ebpearls/Desktop/bckgrnd/bckgrnd/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
